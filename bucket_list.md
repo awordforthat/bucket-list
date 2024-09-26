@@ -4,7 +4,7 @@
 
 1. Eat lunch
 2. Train robotics kids
-3. Eat dinner
+3. Eat breakfast.
 
 ## TODO items (later)
 

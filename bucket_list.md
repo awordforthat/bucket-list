@@ -5,6 +5,9 @@
 1. Eat lunch
 2. Train robotics kids
 3. Eat breakfast.
+4. Eat ice cream
+5. Go climbing
+
 
 ## TODO items (later)
 
